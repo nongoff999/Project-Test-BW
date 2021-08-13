@@ -18,7 +18,7 @@ Public Class FormMain
     Private ifc As New FirebaseConfig With
     {
         .AuthSecret = "M4IRc1lMuL08Ug94iwBaIEf8xEHeo370sMe7u77A",
-        .BasePath = "https://aofy2021-default-rtdb.asia-southeast1.firebasedatabase.app/"
+        .BasePath = "https://XXX-default-rtdb.asia-southeast1.firebasedatabase.app/"
     }
     Private client As IFirebaseClient
     Private Sub FormReg_Load(sender As Object, e As EventArgs) Handles MyBase.Load
